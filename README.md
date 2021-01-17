@@ -1,4 +1,4 @@
 # Pemrograman-Client-Server
-Tugas Pemrograman Client Server - Design Pattern
+UAS Pemrograman Client Server - Design Pattern
 
 Ikhsan Nur Fatah - 18.12.0765
